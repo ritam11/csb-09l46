@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ritam11.github.io/csb-09l46/static/css/main.12f5dbb0.chunk.css",
+    "main.js": "https://ritam11.github.io/csb-09l46/static/js/main.e053fc82.chunk.js",
+    "main.js.map": "https://ritam11.github.io/csb-09l46/static/js/main.e053fc82.chunk.js.map",
+    "runtime-main.js": "https://ritam11.github.io/csb-09l46/static/js/runtime-main.bcb84896.js",
+    "runtime-main.js.map": "https://ritam11.github.io/csb-09l46/static/js/runtime-main.bcb84896.js.map",
+    "static/js/2.a5b17e20.chunk.js": "https://ritam11.github.io/csb-09l46/static/js/2.a5b17e20.chunk.js",
+    "static/js/2.a5b17e20.chunk.js.map": "https://ritam11.github.io/csb-09l46/static/js/2.a5b17e20.chunk.js.map",
+    "index.html": "https://ritam11.github.io/csb-09l46/index.html",
+    "static/css/main.12f5dbb0.chunk.css.map": "https://ritam11.github.io/csb-09l46/static/css/main.12f5dbb0.chunk.css.map",
+    "static/js/2.a5b17e20.chunk.js.LICENSE.txt": "https://ritam11.github.io/csb-09l46/static/js/2.a5b17e20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb84896.js",
+    "static/js/2.a5b17e20.chunk.js",
+    "static/css/main.12f5dbb0.chunk.css",
+    "static/js/main.e053fc82.chunk.js"
+  ]
+}
